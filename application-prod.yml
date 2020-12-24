@@ -3,4 +3,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://service-registery:8761/eureka/
+      defaultZone: http://service-regsfsfistery:8761/eureka/
